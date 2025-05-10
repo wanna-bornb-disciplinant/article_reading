@@ -18,4 +18,5 @@
 
 ## Some Helpful Resources, Including Videos, Lectures, and Interpretive Articles
 [1.VAE原理解读 台大-李宏毅](https://www.youtube.com/watch?v=8zomhgKrsmQ)
+
 [2.DDPM原文解读 知乎-小小将](https://www.zhihu.com/question/545764550/answer/2670611518)
