@@ -26,6 +26,8 @@
 
 [2.DDPM原文解读 知乎-小小将](https://www.zhihu.com/question/545764550/answer/2670611518)
 
+数学原理：★★★★★ &emsp; 解读深度：★★★★★ &emsp; 通俗易懂：★★★★☆ &emsp; 代码复现：见代码复现2和3
+
 ## A Curated Collection of High-star GitHub Implementations of Classic Models🛠️
 
 ### Legend
@@ -34,6 +36,8 @@
 - ❌ Not Started
 
 
-| Model | Frameworks | Author | Link | Archived | Reproduction Status |
-|------|-------|------|------|------|------|
-|PyTorch-VAE|Pytorch|AntixK|<https://github.com/AntixK/PyTorch-VAE>|:green_circle:|❌|
+| ID | Model | Frameworks | Author | Link | Archived | Reproduction Status |
+|------|-------|------|------|------|------|------|
+| 1 |PyTorch-VAE|Pytorch|AntixK|<https://github.com/AntixK/PyTorch-VAE>|:green_circle:|❌|
+| 2 |improved-diffusion|Pytorch|openai|<https://github.com/openai/improved-diffusion>|:green_circle:|❌|
+| 3 |denoising-diffusion-pytorch|Pytorch|lucidrains|<https://github.com/openai/improved-diffusion>|:green_circle:|❌|
