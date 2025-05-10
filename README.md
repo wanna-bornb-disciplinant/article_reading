@@ -17,7 +17,13 @@
 |VAE |Auto-Encoding Variational Bayes |<https://arxiv.org/abs/1312.6114> |<https://github.com/AntixK/PyTorch-VAE> |ICLR 2014 |
 
 ## Some Helpful Resources, Including Videos, Lectures, and Interpretive Articles
-[1.VAE原理解读 台大-李宏毅](https://www.youtube.com/watch?v=8zomhgKrsmQ)
+### 🌟 Recommendation Index
+- ★ = One star (up to 5)
+- ☆ = Not recommended / missing star
+
+[1.VAE原理解读 台大-李宏毅](https://www.youtube.com/watch?v=8zomhgKrsmQ) 
+
+数学原理：★★★☆☆ &emsp; 解读深度：★★★★☆ &emsp; 通俗易懂：★★★★★ &emsp; 代码复现：无
 
 [2.DDPM原文解读 知乎-小小将](https://www.zhihu.com/question/545764550/answer/2670611518)
 
