@@ -1,6 +1,5 @@
-# Paper Summaries
-* Summary of the content of the group meeting reports during the student stage
-## About Network Architecture
+# Paper Summaries📚
+## About Network Architecture📘
 
 ### Mamba
 
@@ -8,7 +7,7 @@
 |------|-------|------|------|------|
 |HiPPO |HiPPO: Recurrent Memory with Optimal Polynomial Projections |<https://arxiv.org/pdf/2111.02163> |<https://github.com/HazyResearch/hippo-code> |NIPS 2020 |
 
-## About Generative Models
+## About Generative Models📘
 
 ### VAE
 
@@ -16,7 +15,7 @@
 |------|-------|------|------|------|
 |VAE |Auto-Encoding Variational Bayes |<https://arxiv.org/abs/1312.6114> |<https://github.com/AntixK/PyTorch-VAE> |ICLR 2014 |
 
-## Some Helpful Resources, Including Videos, Lectures, and Interpretive Articles
+## Some Helpful Resources, Including Videos, Lectures, and Interpretive Articles🚀
 ### 🌟 Recommendation Index
 - ★ = One star (up to 5)
 - ☆ = Not recommended / missing star
@@ -27,7 +26,7 @@
 
 [2.DDPM原文解读 知乎-小小将](https://www.zhihu.com/question/545764550/answer/2670611518)
 
-## A Curated Collection of High-star GitHub Implementations of Classic Models
+## A Curated Collection of High-star GitHub Implementations of Classic Models🛠️
 
 ### Legend
 - ✅ Completed
