@@ -1,4 +1,4 @@
-# recent report
+# Paper Summaries
 * Summary of the content of the group meeting reports during the student stage
 ## About Network Architecture
 
