@@ -30,7 +30,7 @@
 
 ## A Curated Collection of High-star GitHub Implementations of Classic Models🛠️
 
-### Legend
+### 🌟 Legend
 - ✅ Completed
 - 🔧 In Progress
 - ❌ Not Started
