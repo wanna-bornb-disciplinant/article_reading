@@ -1,11 +1,17 @@
 # Paper Summaries📚
 ## About Network Architecture📘
 
+### Transformer
+
+|Model-Name | Description | Paper | Code | Year |
+|------|-------|------|------|------|
+|Transformer |Attention is all you need |<https://arxiv.org/pdf/1706.03762> |<https://github.com/HazyResearch/hippo-code> |NeurIPS 2017 |
+
 ### Mamba
 
 |Model-Name | Description | Paper | Code | Year |
 |------|-------|------|------|------|
-|HiPPO |HiPPO: Recurrent Memory with Optimal Polynomial Projections |<https://arxiv.org/pdf/2111.02163> |<https://github.com/HazyResearch/hippo-code> |NIPS 2020 |
+|HiPPO |HiPPO: Recurrent Memory with Optimal Polynomial Projections |<https://arxiv.org/pdf/2111.02163> |<https://github.com/HazyResearch/hippo-code> |NeurIPS 2020 |
 
 ## About Generative Models📘
 
@@ -19,7 +25,7 @@
 
 |Model-Name | Description | Paper | Code | Year |
 |------|-------|------|------|------|
-|DDPM |Denoising Diffusion Probabilistic Models |<https://arxiv.org/abs/2006.11239> |<https://github.com/hojonathanho/diffusion> |NIPS 2020 |
+|DDPM |Denoising Diffusion Probabilistic Models |<https://arxiv.org/abs/2006.11239> |<https://github.com/hojonathanho/diffusion> |NeurIPS 2020 |
 
 ## Some Helpful Resources, Including Videos, Lectures, and Interpretive Articles🚀
 ### 🌟 Recommendation Index
@@ -33,6 +39,10 @@
 [2.DDPM原文解读 知乎-小小将 博客](https://www.zhihu.com/question/545764550/answer/2670611518)
 
 数学原理：★★★★★ &emsp; 解读深度：★★★★★ &emsp; 通俗易懂：★★★★☆ &emsp; 代码复现：见代码复现2和3
+
+[3.《Attention is All You Need》浅读（简介+代码） Moonshot-苏剑林 博客](https://kexue.fm/archives/4765) 
+
+数学原理：★★★★☆ &emsp; 解读深度：★★★★☆ &emsp; 通俗易懂：★★★★★ &emsp; 代码复现：Keras版
 
 ## A Curated Collection of High-star GitHub Implementations of Classic Models🛠️
 
